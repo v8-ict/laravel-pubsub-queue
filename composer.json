@@ -1,5 +1,5 @@
 {
-    "name": "v8-ict/laravel-pubsub-queue",
+    "name": "kainxspirits/laravel-pubsub-queue",
     "description": "Queue driver for Google Cloud Pub/Sub.",
     "keywords": [
         "kainxspirits",
