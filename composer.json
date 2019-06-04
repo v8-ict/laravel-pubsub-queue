@@ -1,5 +1,5 @@
 {
-    "name": "kainxspirits/laravel-pubsub-queue",
+    "name": "v8-ict/laravel-pubsub-queue",
     "description": "Queue driver for Google Cloud Pub/Sub.",
     "keywords": [
         "kainxspirits",
@@ -13,8 +13,8 @@
     "type": "library",
     "authors": [
         {
-            "name": "Kendryck",
-            "email": "kainxspirits@users.noreply.github.com"
+            "name": "Danny Ebbers",
+            "email": "danny@v8-ict.com"
         }
     ],
     "require": {
